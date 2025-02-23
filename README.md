@@ -26,6 +26,7 @@ Install the dependencies using:
 pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
 ```
 Steps to Run the Code
+
 Clone the repository:
 
 ```bash
