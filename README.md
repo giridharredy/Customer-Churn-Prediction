@@ -61,15 +61,16 @@ Accuracy: [Insert accuracy score]
 
 Confusion Matrix:
 
-Copy
 [[TN, FP],
  [FN, TP]]
 Classification Report:
 
-Copy
 Precision: [Value]
+
 Recall: [Value]
+
 F1-Score: [Value]
+
 Future Improvements
 Try advanced models like Random Forests or XGBoost.
 
@@ -80,16 +81,4 @@ Handle class imbalance using techniques like SMOTE or class weights.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Copy
-
 ---
-
-### **Key Sections in the README**
-1. **Overview**: A brief description of the project.
-2. **Dataset**: Information about the dataset used.
-3. **Dependencies**: List of Python libraries required.
-4. **Steps to Run the Code**: Instructions for setting up and running the project.
-5. **Code Structure**: Overview of what the code does.
-6. **Results**: Key metrics and performance of the model.
-7. **Future Improvements**: Suggestions for enhancing the project.
-8. **License**: Information about the project’s license.
