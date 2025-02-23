@@ -29,22 +29,24 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
 Steps to Run the Code
 Clone the repository:
 
-bash
-Copy
+```bash
 git clone https://github.com/your-username/customer-churn-prediction.git
 cd customer-churn-prediction
+```
 Download the dataset from Kaggle and place it in the project folder.
 
 Run the Jupyter Notebook or Python script:
 
-bash
-Copy
+```bash
+
 jupyter notebook customer_churn_prediction.ipynb
+```
 or
 
-bash
-Copy
+```bash
+
 python customer_churn_prediction.py
+```
 Code Structure
 Data Preprocessing: Handling missing values, encoding categorical features, and scaling numerical features.
 
