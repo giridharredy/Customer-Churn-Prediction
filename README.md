@@ -25,6 +25,7 @@ To run this project, you need the following Python libraries:
 Install the dependencies using:
 ```bash
 pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
+```
 Steps to Run the Code
 Clone the repository:
 
